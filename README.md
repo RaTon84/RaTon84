@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hola 👋
+Aca vas a encontrar mis proyectos:
+- 🏫 de la universidad
+- 📚 de los cursos
+- 💼 personales
+- 🗂 PseInt, Java, html-css-js, mySql
 <!--
 **Her55/Her55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
