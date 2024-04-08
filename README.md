@@ -1,4 +1,7 @@
 ### Hola, soy Hernan 👋
+
+<img src="escritorio.jpg" alt="logo-unahur" width="300" height="100" />
+
 Aca vas a encontrar mis proyectos:
 - 🏫 de la universidad
 - 📚 de los cursos
