@@ -1,6 +1,8 @@
-### Hola, soy Hernan 👋
+<div align="center"> Hola, soy Hernan 👋</div>
 
-<img src="escritorio.jpg" alt="logo-unahur" width="300" height="100" />
+ <div align="center">      
+        <img src="escritorio.jpg" alt="logo-unahur" width="800" height="300" />
+    </div>
 
 Aca vas a encontrar mis proyectos:
 - 🏫 de la universidad
