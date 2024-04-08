@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola soy Hernan 👋
 Aca vas a encontrar mis proyectos:
 - 🏫 de la universidad
 - 📚 de los cursos
