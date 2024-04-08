@@ -1,14 +1,17 @@
-<div align="center"> <h1>Hola, soy Hernan 👋</h1></div>
+<div align="center"> <h1>Hola, soy Hernan 👋</h1>
 
  <div align="center">      
         <img src="escritorio.jpg" alt="logo-unahur" width="700" height="250" />
     </div>
-
-Aca vas a encontrar mis proyectos:
+ </div>
+ 
+## Aca vas a encontrar mis proyectos:
 - 🏫 de la universidad
 - 📚 de los cursos
 - 💼 personales
 - 🗂 PseInt, Java, html-css-js, mySql, gobstones...
+
+
 <!--
 **Her55/Her55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
