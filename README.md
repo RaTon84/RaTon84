@@ -1,7 +1,7 @@
 <div align="center"> Hola, soy Hernan 👋</div>
 
  <div align="center">      
-        <img src="escritorio.jpg" alt="logo-unahur" width="800" height="300" />
+        <img src="escritorio.jpg" alt="logo-unahur" width="500" height="150" />
     </div>
 
 Aca vas a encontrar mis proyectos:
