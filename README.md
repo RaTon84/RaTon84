@@ -1,7 +1,7 @@
-<div align="center"> Hola, soy Hernan 👋</div>
+<div align="center"> <h1>Hola, soy Hernan 👋</h1></div>
 
  <div align="center">      
-        <img src="escritorio.jpg" alt="logo-unahur" width="500" height="150" />
+        <img src="escritorio.jpg" alt="logo-unahur" width="700" height="250" />
     </div>
 
 Aca vas a encontrar mis proyectos:
