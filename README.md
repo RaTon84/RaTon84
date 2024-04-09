@@ -10,7 +10,8 @@
 - 📚 de los cursos
 - 💼 personales
 - 🗂 PseInt, Java, html-css-js, mySql, gobstones, Wollok...
-
+- 
+![RaTon84 GitHub stats](https://github-readme-stats.vercel.app/api?username=RaTon84&show_icons=true&theme=dark)
 
 <!--
 **Her55/Her55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
