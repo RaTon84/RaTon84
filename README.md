@@ -9,7 +9,20 @@
 - 🏫 de la universidad
 - 📚 de los cursos
 - 💼 personales
+
+## Habilidades:
+
 - 🗂 PseInt, Java, html-css-js, mySql, gobstones, Wollok...
+## Contactame:
+
+<a href="mailto:hjvilez@gmail.com" >
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
+<a href="https://www.linkedin.com/in/hernan-viltez-434418297/" >
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+</a>
+<br>
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaTon84&layout=compact&theme=dark)
 
