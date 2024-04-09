@@ -15,6 +15,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaTon84&layout=compact&theme=dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaTon84&hide=stars,issues,prs&show_icons=true&theme=dark"/>
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaTon84&layout=compact&theme=dark"/>
+</a>
+
 <!--
 **Her55/Her55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
