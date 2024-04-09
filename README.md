@@ -11,7 +11,7 @@
 - 💼 personales
 - 🗂 PseInt, Java, html-css-js, mySql, gobstones, Wollok...
 - 
-![RaTon84 GitHub stats](https://github-readme-stats.vercel.app/api?username=RaTon84&show_icons=true&theme=dark)
+![RaTon84 GitHub stats](https://github-readme-stats.vercel.app/api?username=RaTon84&hide=stars,issues,prs&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaTon84&layout=compact&theme=dark)
 
