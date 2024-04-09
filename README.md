@@ -9,7 +9,7 @@
 - 🏫 de la universidad
 - 📚 de los cursos
 - 💼 personales
-- 🗂 PseInt, Java, html-css-js, mySql, gobstones...
+- 🗂 PseInt, Java, html-css-js, mySql, gobstones, Wollok...
 
 
 <!--
