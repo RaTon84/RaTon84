@@ -20,6 +20,8 @@
 <img src=https://skillicons.dev/icons?i=gmail /></a>
 <a href="https://www.linkedin.com/in/hernan-viltez-434418297/">
 <img src=https://skillicons.dev/icons?i=linkedin /></a>
+<a href="https://github.com/RaTon84">
+<img src=https://skillicons.dev/icons?i=github /></a>
 </a>
 
 ## Estadisticas Github
