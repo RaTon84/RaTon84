@@ -22,6 +22,8 @@
 <img src=https://skillicons.dev/icons?i=linkedin /></a>
 <a href="https://github.com/RaTon84">
 <img src=https://skillicons.dev/icons?i=github /></a>
+<a href="https://discord.gg/pGRXqeKjFE">
+<img src=https://skillicons.dev/icons?i=discord /></a>
 </a>
 
 ## Estadisticas Github
