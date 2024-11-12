@@ -12,7 +12,7 @@
 
 ## Habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,nodejs,html,css,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postman,mysql,postgres,js,nodejs,html,css,bootstrap,git)](https://skillicons.dev)
 
 ## Contactame:
 
