@@ -14,8 +14,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,py,java,spring,git)](https://skillicons.dev)
 
-##Conocimientos
-[![My Skills](https://skillicons.dev/icons?i=postman,mysql,postgres,js,nodejs,html,css,bootstrap)](https://skillicons.dev)
+## Conocimientos:
+
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postman,hibernate)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap)](https://skillicons.dev)
 
 ## Contactame:
 
