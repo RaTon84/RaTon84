@@ -16,11 +16,11 @@
 
 ## Conocimientos:
 
-[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres,mongodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postman,hibernate)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,npm,react,tailwind,ts)](https://skillicons.dev)
 
 ## Contactame:
 
